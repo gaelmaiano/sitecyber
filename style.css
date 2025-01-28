@@ -70,7 +70,7 @@ header nav {
 }
 
 .glitch-hover:hover {
-    color: #4ade80;
+    color: #greenyellow;
 }
 
 .glitch-hover::before,
@@ -84,7 +84,7 @@ header nav {
 }
 
 .glitch-hover:hover::before {
-    color: #ec4899;
+    color: #greenyellow;
     opacity: 0.7;
     left: 2px;
 }
